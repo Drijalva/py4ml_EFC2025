@@ -6,7 +6,7 @@ Url del clasrom:
 #Lenguaje de programación
 !()(https://www.python.org/static/community_logos/python-logo.png)
 
-##Sesion 3
-  *GitOps: Git + TerraFore + Kubernets
-  *Git + GitHub.com
+#Sesion 3
+  .GitOps: Git + TerraFore + Kubernets
+  .Git + GitHub.com
   
